@@ -1,0 +1,10 @@
+# Model checkpoints and training outputs (too large for GitHub)
+finetuned_cooking_model*/
+results/
+*.safetensors
+*.bin
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.env

@@ -1,0 +1,14 @@
+torch
+transformers
+accelerate
+peft
+bitsandbytes
+trl
+datasets
+sentencepiece
+sentence-transformers
+faiss-cpu
+scikit-learn
+pandas
+numpy
+matplotlib
